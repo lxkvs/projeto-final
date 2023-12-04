@@ -1,0 +1,35 @@
+[
+       {
+            "Titulo":"Como criar um bom codigo",
+            "Autor":"Blender.M",
+            "Assunto":"Dev",
+            "Premissa":"Aprenda a como criar um bom codigo utilizando boas praticas do mercado",
+            "Conteudo":["dsdsdaaaddddddddddddddddfdffdsf1ddddddffdfdfdfddddfgfgfggfgfgddddfsfdfsdfsdfsdfdfdfdfsdfsdfdffsfdfsdfsdfsdfdsfsdfsddfdsfdfdfdddddddddddffdfdfdfddddddddddddddddddffdfdfdfd"],
+            "id":"000"
+        },
+        {
+            "Titulo":"Como criar um design limpo",
+            "Autor":"Petterson Janh",
+            "Premissa":"Como criar um design limpo e de forma eficiente",
+            "Assunto":"Design",
+            "Conteudo":["idfjofjdfjdfjdfndfjsdnfdfdfdkfdfjdmnfndjfndnandjfnndfndfafdfdfdf Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam?"],
+            "id":"003"
+        },
+        {
+            "Titulo":"Codigo Limpo",
+            "Autor":"Bob",
+            "Premissa":"Aprenda as melhores praticas de codigo limpo que existe",
+            "Assunto":"Dev",
+            "Conteudo":["idfjofjdfjdfjdfndfjsdnfdfdfdkfdfjdmnfndjfndnandjfnndfndfafdfdfdf Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam?"],
+            "id":"002"
+        },
+        {
+            "Titulo":"Redação para Designers",
+            "Autor":"Lutter .A",
+            "Premissa":"Todo designer precisa de uma boa redação estrategica",
+            "Assunto":"Design",
+            "Conteudo":["idfjofjdfjdfjdfndfjsdnfdfdfdkfdfjdmnfndjfn","dnandjfnndfndfafdfdfdf Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi voluptatibus placeat quaerat! Provident, dolorum repellendus impedit iste atque necessitatibus in a dignissimos aspernatur quibusdam quod illum dicta animi accusantium aliquam?"],
+            "id":"004"
+        }
+    
+]

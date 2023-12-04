@@ -1,0 +1,33 @@
+<div class="Article_base">
+    <a href="http://127.0.0.1:5500/index.html#!/artigos">Voltar para Artigos</a>
+    <h1>{{ArtigoCarregado.Titulo}}</h1>
+    <h3>{{ArtigoCarregado.Autor}}</h3>
+    <div class="Corpo_Artigo">
+        <div ng-repeat="x in ArtigoCarregado.Conteudo">
+            {{x}}
+            <br />
+            <br />
+        </div>
+        <br />
+        <br />
+    </div>
+</div>
+<img id="flu" src="{{ArtigoCarregado.imgartigo}}" alt="" />
+        <div ng-repeat=" x  in ArtigoCarregado.Conteudo ">
+            <article>{{x}}</article>
+            <br/>
+            <br>
+        </div>
+    </div>
+</div>
+<h1 class="art_sub">Artigos Recomendados</h1>
+<div id="art1" class="articles_">
+    <div class="Artigo_sq margintop-artigo" ng-repeat="x in Sugeridos">
+        
+        <img id="artigoimg" src="{{x.imgartigo}}" alt="" />
+        <a id="btrelacionado" href="http://127.0.0.1:5500/index.html#!/leitura/{{x.id}}">Acessar Artigo</a>
+        <h3>{{x.Autor}}</h3>
+        <h2>{{x.Titulo}}</h2>
+    </div>
+</div>
+</div>

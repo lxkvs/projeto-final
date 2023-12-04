@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./css/estilo_paginas.css" rel="stylesheet">
+    <title>LFootball</title>
+    <link rel="shortcut icon" href="/imagens/bolaico.ico" type="image/x-icon">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
+</head>
+<body ng-app="blog" ng-controller="home" ng-init="nome='felipe'">
+    <nav id="menu_principal" class="fixed">
+        <ul>
+            <li><a href="#!/">Home</a></li>
+            <li><a href="#!artigos">Artigos</a></li>
+            <li><a href="#!sobre">Sobre</a></li>
+            <h1 id="nome"><a href="#!/">LF</a></h1>
+        </ul>
+    </nav>
+
+    <ng-view></ng-view>
+    <footer>
+        <h1>Desenvolvido por Lukas e Lucas</h1>
+        <div class="socialmedia">
+            <ul>
+                <li> <a href="https://youtube.com/@LF.ootball?si=Tr8OT4kRL5aRSce7"><img src="/imagens/youtube.png" alt=""></a></li>
+                <li> <a href="https://www.instagram.com/lf.ootball/?igshid=OGQ5ZDc2ODk2ZA%3D%3D"><img src="/imagens/insta.png" alt=""></a></li>
+                <li> <a href="https://www.facebook.com/profile.php?id=61554228323936"><img src="/imagens/facebook.png" alt=""></a></li>
+            </ul>
+        </div>
+    </footer>
+    <script src="./js/main.js"></script>
+    <script src="./js/eventos.js"></script>
+    <script src="./js/service_string.js"></script>
+</body>
+</html>

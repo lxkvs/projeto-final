@@ -1,0 +1,38 @@
+<div class="banner-xl">
+    <div class="imgplace-xl"></div>
+    <h1>
+        Torcedores de Brasil e Argentina <br />
+        brigam nas arquibancadas do <br />
+        Maracanã
+    </h1>
+    <h3>
+        Conflito começou entre torcidas das duas seleções e se alastrou com ação
+        violenta de policiais contra os argentinos. Brasileiros ficaram
+        esmagados, e jogo iniciou com 27 minutos de atraso.
+    </h3>
+    <img id="img" src="/imagens/briga.webp" alt="" />
+</div>
+
+<div class="Black_screen"></div>
+
+<div class="mini_screen">
+    <button class="close" id="close_id" ng-click="CloseFunc()">X</button>
+    <h1>Bem vindo ao nosso blog!</h1>
+    <h3>Nos siga nas redes sociais para receber as notícias mais recentes.</h3>
+</div>
+
+
+
+<div id="art1" class="articles_">
+    <div ng-repeat="x in ListaArtigos" class="Artigo_sq">
+        <img id="artigoimg" src="{{x.img}}" alt="" />
+        <h2>{{x.Titulo}}</h2>
+        <h3>{{x.Autor}}</h3>
+        <article>{{x.Premissa}}</article>
+        <a
+            id="btartigo"
+            href="http://127.0.0.1:5500/index.html#!/leitura/{{x.id}}"
+            >Acessar Artigo</a
+        >
+    </div>
+</div>

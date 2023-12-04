@@ -1,0 +1,28 @@
+.align_center{
+    background-color: red;
+    color: white;
+    font-size: 2vh;
+    padding: 2vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    align-self: center;
+    margin-top: 20%;
+}
+
+.align_bet{
+    margin-left: 25%;
+    margin-top: 5vh;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 20vh;
+}
+.sq{
+    background-color: red;
+    width: 10vh;
+    height: 10vh;
+    padding: 1vh;
+    border-radius: 100%;
+    text-align: center;
+    color: wheat;
+}
